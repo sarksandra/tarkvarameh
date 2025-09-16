@@ -1,0 +1,36 @@
+<?xml version="1.0" encouding="UTF-8"?>
+<gamelist>
+    <game>
+        <title lang="en">Hearthsone</title>
+        <price>Free</price>
+        <platforms>
+            <platform>PC</platform>
+            <platform>Xbox</platform>
+            <platform>PlayStation</platform>
+            <platform>Android</platform>
+        </platforms>
+    </game>
+
+    <game>
+        <title en="en">The Witcher 3</title>
+        <price>Free</price>
+        <platforms>
+            <platform>PC</platform>
+            <platform>Xbox</platform>
+            <platform>PlayStation</platform>
+        </platforms>
+    </game>
+
+    <game>
+        <title en="en">Minecraft</title>
+        <price>29,96</price>
+        <platforms>
+            <platform>PC</platform>
+            <platform>Xbox</platform>
+            <platform>PlayStation</platform>
+            <platform>Android</platform>
+        </platforms>
+    </game>
+
+   
+
